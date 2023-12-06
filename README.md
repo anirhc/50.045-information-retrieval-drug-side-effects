@@ -36,7 +36,7 @@ primary focus is on three key features: **drug_name**, **side_effects** and **dr
 
 ### Notebooks
 - `LlamaIndex_RAG.ipynb`:
-    -   Upserting vector embeddings to pinecone index.
+    -   Upserting vector embeddings to Pinecone index.
     -   Generation using Mistral 7B and GPT-3.5 Turbo.
     -   Verification of LLM output.
     -   Generation of citations upon verification of LLM output.
