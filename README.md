@@ -36,12 +36,17 @@ primary focus is on three key features: **drug_name**, **side_effects** and **dr
 
 ### Notebooks
 - `LlamaIndex_RAG.ipynb`:
+    - Loading dataset
     -   Upserting vector embeddings to Pinecone index.
     -   Generation using Mistral 7B and GPT-3.5 Turbo.
     -   Verification of LLM output.
     -   Generation of citations upon verification of LLM output.
     -   Retrieval-augmented generation (RAG) using Mistral 7B and GPT-3.5 Turbo.
-- RAG evaluation 
-- Sentence window + evaluation
-- Second stage reranking + evaluation
-- Recusrive retrieval + evaluation
+- `LlamaIndex_Evaluate.ipynb`: 
+    - RAG Evaluation
+- `AdvancedRAG1-sentencewindow.ipynb`:
+    - Advanced RAG: Sentence Window Retrieval + Evaluation
+- `AdvancedRAG2-reranking.ipynb`:
+    - Advanced RAG: Second Stage Rerankers + Evaluation
+- `AdvancedRAG3-ChildParentRetrieval.ipynb`:
+    - Advanced RAG: Child-Parent Recursive Retrieval + Evaluation
