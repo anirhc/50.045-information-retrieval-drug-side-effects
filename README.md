@@ -1,5 +1,5 @@
 # 50.045 Information Retrieval Project
-# Leveraging Language Models for Efficient and Accurate Retrieval of Medicinal Drug Side Effects
+# Leveraging Large Language Models for Efficient and Accurate Retrieval of Medicinal Drug Side Effects
 
 ### Members
 - Aditi Kumaresan 1005375
