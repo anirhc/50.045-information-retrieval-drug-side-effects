@@ -1,0 +1,72 @@
+[
+    {
+        "question": "What are the side effects of doxycycline?",
+        "golden_response": "The side effects of doxycycline may include severe stomach pain, diarrhea that is watery or bloody, throat irritation, trouble swallowing, chest pain, irregular heart rhythm, feeling short of breath, little or no urination, low white blood cell counts, severe headaches, ringing in your ears, dizziness, nausea, vision problems, pain behind your eyes, loss of appetite, upper stomach pain, tiredness, nausea or vomiting, fast heart rate, dark urine, and jaundice. Common side effects may include nausea and vomiting, upset stomach, loss of appetite, mild diarrhea, skin rash or itching, darkened skin color, and vaginal itching or discharge.",
+        "generated_response": "Doxycycline is an antibiotic that may cause several side effects, including:\n\n1. Stomach upset: nausea, vomiting, diarrhea, or indigestion\n2. Headache\n3. Dizziness or lightheadedness\n4. Sore throat\n5. Fever\n6. Chills\n7. Body aches\n8. Fatigue or weakness\n9. Nausea or vomiting\n10. Loss of appetite\n11. Dark patches on the skin\n12. Swollen or dry mouth\n13. Joint",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant to the user query and includes most of the side effects mentioned in the reference answer. However, it is not as comprehensive as the reference answer and lacks some specific side effects such as chest pain, irregular heart rhythm, and vision problems."
+    },
+    {
+        "question": "What are the side effects of spironolactone?",
+        "golden_response": "The side effects of spironolactone may include breast swelling or tenderness.",
+        "generated_response": "Spironolactone is a medication that is primarily used to treat high blood pressure and heart failure. Like any medication, it can cause side effects, although many people experience none at all. Some common side effects of spironolactone include:\n\n1. Headache\n2. Dizziness\n3. Nausea and vomiting\n4. Fatigue\n5. Dry mouth\n6. Thirst\n7. Increased urination\n8. Decreased libido\n9. Breast tenderness or enlargement in men\n10. Irregular menstrual periods in women\n",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant to the user query and provides a comprehensive list of side effects of spironolactone. However, it includes some additional information about the medication itself that is not directly related to the side effects. Additionally, the formatting of the list could be improved for better readability."
+    },
+    {
+        "question": "What are the side effects of minocycline?",
+        "golden_response": "The side effects of minocycline may include numbness, tingling, burning pain, hair loss, discoloration of the skin or nails, dizziness, spinning sensation, muscle or joint pain, nausea, diarrhea, loss of appetite, swollen tongue, cough, trouble swallowing, rash, itching, or headache.",
+        "generated_response": "Like any medication, minocycline can cause side effects. Some common side effects of minocycline include:\n\n1. Skin irritation: This is the most common side effect of minocycline. You may experience redness, itching, or acne-like breakouts on the skin where you applied the medication.\n\n2. Stomach upset: Minocycline can cause nausea, vomiting, and diarrhea.\n\n3. Headache: Some people may experience headaches while taking minocycline.\n\n4. Dizziness: Min",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant to the user query and provides a list of common side effects of minocycline. However, it is cut off and incomplete, as it ends abruptly without providing information about the remaining side effects."
+    },
+    {
+        "question": "What are the side effects of Accutane?",
+        "golden_response": "The side effects of Accutane may include problems with vision or hearing, muscle or joint pain, bone pain, back pain, increased thirst, increased urination, hallucinations, symptoms of depression, signs of liver or pancreas problems, severe stomach problems, increased pressure inside the skull, dryness of the skin, lips, eyes, or nose, vision problems, headache, skin reactions, and cold symptoms such as stuffy nose, sneezing, sore throat.",
+        "generated_response": "Accutane, also known as isotretinoin, is a medication commonly used to treat severe acne. Like all medications, it can cause side effects, although most people who take Accutane do not experience any significant problems. Some common side effects of Accutane include:\n\n1. Dry skin: Accutane can cause your skin to become dry, which can lead to flaking and peeling.\n2. Chapped lips: Many people who take Accutane experience dry, cracked lips.\n3. Nosebleeds: Accutane can cause your nose to become dry and irritated",
+        "score": 3.0,
+        "reasoning": "The generated answer is relevant to the user query and includes some of the common side effects of Accutane. However, it is missing several other side effects mentioned in the reference answer, such as problems with vision or hearing, muscle or joint pain, and hallucinations. Therefore, it is not fully correct and contains mistakes."
+    },
+    {
+        "question": "What are the side effects of clindamycin?",
+        "golden_response": "The side effects of clindamycin may include severe redness, itching, or dryness of treated skin areas, severe stomach pain, watery or bloody diarrhea (even if it occurs months after the last dose), burning, itching, dryness, peeling or redness of treated skin, and oily skin.",
+        "generated_response": "Clindamycin is an antibiotic that can cause several side effects, including:\n\n1. Nausea and vomiting: This is the most common side effect of clindamycin. It usually occurs within the first few days of starting treatment.\n\n2. Diarrhea: Clindamycin can cause diarrhea, which can range from mild to severe.\n\n3. Stomach cramps: Clindamycin can cause stomach cramps, which can be severe in some cases.\n\n4. Headache: Some people may experience a headache while taking clind",
+        "score": 3.0,
+        "reasoning": "The generated answer is relevant to the user query and provides information about the side effects of clindamycin. However, it is incomplete and abruptly ends without providing information about all the side effects mentioned in the reference answer."
+    },
+    {
+        "question": "What are the side effects of Aldactone?",
+        "golden_response": "The side effects of Aldactone may include breast swelling or tenderness.",
+        "generated_response": "Aldactone, also known as spironolactone, is a medication that is commonly used to treat high blood pressure, heart failure, and certain types of kidney disease. Like any medication, it can cause side effects. Some of the most common side effects of Aldactone include:\n\n1. Increased thirst and urination: This is a common side effect of Aldactone, as it causes the body to retain more water.\n2. Fatigue and weakness: Some people may experience fatigue and weakness while taking Aldactone.\n3. Nausea and vomiting: Aldactone",
+        "score": 3.0,
+        "reasoning": "The generated answer is relevant to the user query and provides additional information about the side effects of Aldactone. However, it is incomplete and abruptly ends with \"Aldactone\"."
+    },
+    {
+        "question": "What are the side effects of tretinoin?",
+        "golden_response": "The side effects of tretinoin may include severe burning, stinging, or irritation of treated skin, severe skin dryness, severe redness, swelling, blistering, peeling, or crusting, skin pain, redness, burning, itching, or irritation, sore throat, mild warmth or stinging where the medicine was applied, and changes in color of treated skin.",
+        "generated_response": "Like all medications, tretinoin can cause side effects. Some common side effects of tretinoin include:\n\n1. Skin irritation: This is the most common side effect of tretinoin. You may experience dryness, itching, burning, or stinging on the skin where you apply the medication.\n\n2. Peeling skin: In some cases, tretinoin can cause the skin to peel or flake off. This is usually mild and goes away on its own.\n\n3. Acne: While tretinoin is often used to treat acne,",
+        "score": 3.0,
+        "reasoning": "The generated answer is relevant to the user query and provides information about the side effects of tretinoin. However, it is not as comprehensive as the reference answer and does not mention all the side effects listed in the reference answer."
+    },
+    {
+        "question": "What are the side effects of isotretinoin?",
+        "golden_response": "The side effects of isotretinoin may include problems with vision or hearing, muscle or joint pain, bone pain, back pain, increased thirst, increased urination, hallucinations, symptoms of depression, signs of liver or pancreas problems, severe stomach problems, increased pressure inside the skull, dryness of the skin, lips, eyes, or nose, vision problems, headache, skin reactions, and cold symptoms such as stuffy nose, sneezing, sore throat.",
+        "generated_response": "Isotretinoin, also known as Accutane, is a medication used to treat severe acne. Like any medication, it can cause side effects, although most people who take isotretinoin do not experience them. Some of the potential side effects of isotretinoin include:\n\n1. Dry skin: Isotretinoin can cause the skin to become dry and flaky. This can be uncomfortable and may increase the risk of developing cracks or infections.\n\n2. Nausea and vomiting: Some people who take isotretinoin may experience nausea and",
+        "score": 3.0,
+        "reasoning": "The generated answer is relevant to the user query and mentions some of the potential side effects of isotretinoin. However, it is not as comprehensive as the reference answer and does not mention all of the side effects listed in the reference answer."
+    },
+    {
+        "question": "What are the side effects of Bactrim?",
+        "golden_response": "The side effects of Bactrim may include nausea, vomiting, loss of appetite, and skin rash.",
+        "generated_response": "Bactrim is an antibiotic used to treat various bacterial infections. Like all medications, it can cause side effects. The most common side effects of Bactrim include:\n\n1. Nausea and vomiting\n2. Diarrhea\n3. Stomach cramps\n4. Headache\n5. Dizziness\n6. Confusion\n7. Constipation\n8. Loss of appetite\n9. Fatigue\n10. Muscle or joint pain\n\nThese side effects are usually mild and go away on their own. However, if they persist or w",
+        "score": 3.0,
+        "reasoning": "The generated answer is relevant to the user query and provides a comprehensive list of side effects of Bactrim. However, the answer is cut off and incomplete, which lowers the score."
+    },
+    {
+        "question": "What are the side effects of Retin-A?",
+        "golden_response": "The side effects of Retin-A may include severe burning, stinging, or irritation of treated skin, severe redness, swelling, blistering, peeling, or crusting, mild warmth or stinging where the medicine was applied, and changes in color of treated skin.",
+        "generated_response": "Retin-A, also known as tretinoin, is a medication used to treat acne and wrinkles. Like any medication, it can cause side effects, although most people who use Retin-A do not experience them. Some common side effects of Retin-A include:\n\n1. Dry skin: Retin-A can cause your skin to become dry and flaky. This is often temporary and should improve as your skin adjusts to the medication.\n\n2. Redness and irritation: Some people may experience redness and irritation at the application site. This is usually mild and",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant to the user query and provides information about the side effects of Retin-A. However, it is not as comprehensive as the reference answer, which lists specific side effects and provides more detail. Additionally, the generated answer does not mention severe side effects such as blistering, peeling, or changes in color of treated skin, which are mentioned in the reference answer. Therefore, the generated answer contains some mistakes and is not fully correct."
+    }
+]

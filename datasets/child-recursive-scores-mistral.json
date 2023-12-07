@@ -1,0 +1,72 @@
+[
+    {
+        "question": "What are the side effects of doxycycline?",
+        "golden_response": "The side effects of doxycycline may include severe stomach pain, diarrhea that is watery or bloody, throat irritation, trouble swallowing, chest pain, irregular heart rhythm, feeling short of breath, little or no urination, low white blood cell counts, severe headaches, ringing in your ears, dizziness, nausea, vision problems, pain behind your eyes, loss of appetite, upper stomach pain, tiredness, nausea or vomiting, fast heart rate, dark urine, and jaundice. Common side effects may include nausea and vomiting, upset stomach, loss of appetite, mild diarrhea, skin rash or itching, darkened skin color, and vaginal itching or discharge.",
+        "generated_response": "The side effects of doxycycline may include nausea and vomiting, upset stomach, loss of appetite, mild diarrhea, skin rash or itching, darkened skin color, vaginal itching or discharge. In rare cases, serious side effects may occur, such as severe stomach pain, diarrhea that is watery or bloody, throat irritation, trouble swallowing, chest pain, irregular heart rhythm, feeling short of breath, little or no urination, low white blood cell counts, severe headaches, ringing in the ears, dizziness, nausea, vision problems, pain behind the eyes, loss of appetite, upper stomach pain, tiredness, nausea or vomiting, fast heart rate, dark urine, jaundice.",
+        "score": 4.5,
+        "reasoning": "The generated answer is highly relevant to the user query and contains all the side effects mentioned in the reference answer. However, the order of the side effects is slightly different, and there is a repetition of the phrase \"nausea or vomiting\" in the generated answer. Other than these minor issues, the generated answer is correct and comprehensive."
+    },
+    {
+        "question": "What are the side effects of spironolactone?",
+        "golden_response": "The side effects of spironolactone may include breast swelling or tenderness.",
+        "generated_response": "The side effects of spironolactone may include breast swelling or tenderness, drowsiness, dizziness, lack of energy, leg cramps, weakness, feeling like you might pass out, severe pain in your upper stomach spreading to your back, nausea and vomiting, electrolyte imbalance, and high or low potassium levels.",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant to the user query and provides additional side effects of spironolactone. However, it contains some mistakes such as including unrelated side effects like drowsiness and leg cramps."
+    },
+    {
+        "question": "What are the side effects of minocycline?",
+        "golden_response": "The side effects of minocycline may include numbness, tingling, burning pain, hair loss, discoloration of the skin or nails, dizziness, spinning sensation, muscle or joint pain, nausea, diarrhea, loss of appetite, swollen tongue, cough, trouble swallowing, rash, itching, or headache.",
+        "generated_response": "The side effects of minocycline may include numbness, tingling, burning pain, hair loss, discoloration of the skin or nails, dizziness, spinning sensation, muscle or joint pain, nausea, diarrhea, loss of appetite, swollen tongue, cough, trouble swallowing, rash, itching, and headache. Serious side effects may include hives, itching, severe rash, swollen glands, unusual tiredness, fever, nausea, stomach pain, lower back pain, painful urination, blood or pus in the urine, chest pain, cough with mucus, difficult breathing, jaundice (yellowing of the skin or eyes), and swelling of the face, lips, tongue, or throat.",
+        "score": 4.5,
+        "reasoning": "The generated answer is highly relevant to the user query and contains additional information about serious side effects. However, there are some minor mistakes in punctuation and sentence structure."
+    },
+    {
+        "question": "What are the side effects of Accutane?",
+        "golden_response": "The side effects of Accutane may include problems with vision or hearing, muscle or joint pain, bone pain, back pain, increased thirst, increased urination, hallucinations, symptoms of depression, signs of liver or pancreas problems, severe stomach problems, increased pressure inside the skull, dryness of the skin, lips, eyes, or nose, vision problems, headache, skin reactions, and cold symptoms such as stuffy nose, sneezing, sore throat.",
+        "generated_response": "The side effects of Accutane may include problems with vision or hearing, muscle or joint pain, bone pain, back pain, increased thirst, increased urination, hallucinations, symptoms of depression, signs of liver or pancreas problems, severe stomach problems, increased pressure inside the skull, dryness of the skin, lips, eyes, or nose, vision problems, headache, skin reactions, and cold symptoms such as stuffy nose, sneezing, sore throat.",
+        "score": 5.0,
+        "reasoning": "The generated answer is identical to the reference answer, including all the relevant side effects of Accutane."
+    },
+    {
+        "question": "What are the side effects of clindamycin?",
+        "golden_response": "The side effects of clindamycin may include severe redness, itching, or dryness of treated skin areas, severe stomach pain, watery or bloody diarrhea (even if it occurs months after the last dose), burning, itching, dryness, peeling or redness of treated skin, and oily skin.",
+        "generated_response": "The side effects of clindamycin may include severe redness, itching, or dryness of treated skin areas, severe stomach pain, watery or bloody diarrhea, burning, itching, dryness, peeling or redness of treated skin, oily skin, nausea, vomiting, stomach pain, mild skin rash, vaginal itching or discharge, abdominal or stomach cramps, pain, and bloating, watery and severe diarrhea (which may also be bloody), fever, increased thirst, unusual tiredness or weakness, weight loss (unusual), skin rash, itching, redness, swelling, or other sign of irritation not present before use of the medicine, dryness, scaliness, or peeling of skin (for the topical solution), abdominal pain, mild diarrhea, headache, irritation or oiliness of skin, stinging or burning feeling of skin.",
+        "score": 3.0,
+        "reasoning": "The generated answer is relevant to the user query and includes most of the side effects mentioned in the reference answer. However, it also includes some additional side effects that are not mentioned in the reference answer, which may be incorrect or misleading. Therefore, the generated answer is partially correct but not fully accurate."
+    },
+    {
+        "question": "What are the side effects of Aldactone?",
+        "golden_response": "The side effects of Aldactone may include breast swelling or tenderness.",
+        "generated_response": "The side effects of Aldactone may include breast swelling or tenderness, drowsiness, dizziness, lack of energy, leg cramps, weakness, feeling like you might pass out, severe pain in your upper stomach spreading to your back, nausea and vomiting, electrolyte imbalance, and low blood cell counts.",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant to the user query and includes additional side effects compared to the reference answer. However, it is not as concise and may contain excessive information."
+    },
+    {
+        "question": "What are the side effects of tretinoin?",
+        "golden_response": "The side effects of tretinoin may include severe burning, stinging, or irritation of treated skin, severe skin dryness, severe redness, swelling, blistering, peeling, or crusting, skin pain, redness, burning, itching, or irritation, sore throat, mild warmth or stinging where the medicine was applied, and changes in color of treated skin.",
+        "generated_response": "The side effects of tretinoin may include severe burning, stinging, or irritation of treated skin, severe skin dryness, severe redness, swelling, blistering, peeling, or crusting of the skin, skin pain, redness, burning, itching, or irritation, sore throat, mild warmth or stinging where the medicine was applied, and changes in color of treated skin.",
+        "score": 5.0,
+        "reasoning": "The generated answer is relevant and fully correct. It has the exact same content and structure as the reference answer."
+    },
+    {
+        "question": "What are the side effects of isotretinoin?",
+        "golden_response": "The side effects of isotretinoin may include problems with vision or hearing, muscle or joint pain, bone pain, back pain, increased thirst, increased urination, hallucinations, symptoms of depression, signs of liver or pancreas problems, severe stomach problems, increased pressure inside the skull, dryness of the skin, lips, eyes, or nose, vision problems, headache, skin reactions, and cold symptoms such as stuffy nose, sneezing, sore throat.",
+        "generated_response": "The side effects of isotretinoin may include problems with vision or hearing, muscle or joint pain, bone pain, back pain, increased thirst, increased urination, hallucinations, symptoms of depression, signs of liver or pancreas problems, severe stomach problems, increased pressure inside the skull, dryness of the skin, lips, eyes, or nose, vision problems, headache, skin reactions, and cold symptoms such as stuffy nose, sneezing, and sore throat.",
+        "score": 5.0,
+        "reasoning": "The generated answer is fully correct and has the exact same content as the reference answer. There are no mistakes or omissions in the generated answer."
+    },
+    {
+        "question": "What are the side effects of Bactrim?",
+        "golden_response": "The side effects of Bactrim may include nausea, vomiting, loss of appetite, and skin rash.",
+        "generated_response": "The side effects of Bactrim may include nausea, vomiting, loss of appetite, and skin rash.",
+        "score": 5.0,
+        "reasoning": "The generated answer is fully correct and has the exact same content as the reference answer."
+    },
+    {
+        "question": "What are the side effects of Retin-A?",
+        "golden_response": "The side effects of Retin-A may include severe burning, stinging, or irritation of treated skin, severe redness, swelling, blistering, peeling, or crusting, mild warmth or stinging where the medicine was applied, and changes in color of treated skin.",
+        "generated_response": "The side effects of Retin-A may include severe burning, stinging, or irritation of treated skin, severe redness, swelling, blistering, peeling, or crusting of the skin, mild warmth or stinging where the medicine was applied, and changes in color of treated skin.",
+        "score": 5.0,
+        "reasoning": "The generated answer is fully correct and has the exact same metrics as the reference answer. There are no mistakes or discrepancies between the two answers."
+    }
+]

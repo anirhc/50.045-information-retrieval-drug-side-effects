@@ -1,0 +1,72 @@
+[
+    {
+        "question": "What are the side effects of doxycycline?",
+        "golden_response": "The common side effects of doxycycline are nausea and vomiting; upset stomach; loss of appetite; mild diarrhea; skin rash or itching; darkened skin color; vaginal itching or discharge. Serious side effects include severe stomach pain, diarrhea that is watery or bloody,  trouble swallowing, chest pain, irregular heart beat, feeling short of breath; little or no urination, severe headaches, vision problems, fast heart rate, dark urine, yellowing of the skin or eyes.",
+        "generated_response": "The side effects of doxycycline may include nausea and vomiting, upset stomach, loss of appetite, mild diarrhea, skin rash or itching, darkened skin color, vaginal itching or discharge. In rare cases, serious side effects may occur, such as severe stomach pain, diarrhea that is watery or bloody, throat irritation, trouble swallowing, chest pain, irregular heart rhythm, feeling short of breath, little or no urination, low white blood cell counts, severe headaches, ringing in the ears, dizziness, nausea, vision problems, pain behind the eyes, loss of appetite, upper stomach pain, tiredness, nausea or vomiting, fast heart rate, dark urine, jaundice.",
+        "score": 4.0,
+        "reasoning": "The generated answer is relevant and contains all the side effects mentioned in the reference answer. However, it includes some additional side effects that are not mentioned in the reference answer, which may cause confusion."
+    },
+    {
+        "question": "What are the side effects of spironolactone?",
+        "golden_response": "The common side effects of spironolactone are breast swelling or tenderness. Serious side effects include feeling unsteady, little or no urination, vomiting, chest pain, irregular heartbeats, loss of movement, increased thirst, confusion, and severe weakness.",
+        "generated_response": "The side effects of spironolactone may include breast swelling or tenderness, drowsiness, dizziness, lack of energy, leg cramps, weakness, feeling like you might pass out, severe pain in your upper stomach spreading to your back, nausea and vomiting, electrolyte imbalance, and high or low potassium levels.",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant and contains most of the side effects mentioned in the reference answer. However, it also includes some additional side effects that are not mentioned in the reference answer, such as drowsiness, lack of energy, and electrolyte imbalance."
+    },
+    {
+        "question": "What are the side effects of minocycline?",
+        "golden_response": "The common side effects of minocycline are numbness, tingling, burning pain, hair loss, discoloration of your skin or nails, dizziness, muscle or joint pain, nausea, diarrhea, loss of appetite, swollen tongue, cough, trouble swallowing, rash, itching and headache. Serious side effects include little or no urination, swelling in your feet or ankles, shortness of breath, easy bruising or bleeding, dark urine, yellowing of the skin or eyes, chest pain, severe headaches, vision problems.",
+        "generated_response": "The side effects of minocycline may include numbness, tingling, burning pain, hair loss, discoloration of the skin or nails, dizziness, spinning sensation, muscle or joint pain, nausea, diarrhea, loss of appetite, swollen tongue, cough, trouble swallowing, rash, itching, and headache. Serious side effects may include hives, itching, severe rash, swollen glands, unusual tiredness, fever, nausea, stomach pain, lower back pain, painful urination, blood or pus in the urine, chest pain, cough with mucus, difficult breathing, jaundice (yellowing of the skin or eyes), and swelling of the face, lips, tongue, or throat.",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant and contains most of the side effects mentioned in the reference answer. However, it includes some additional side effects that are not mentioned in the reference answer, such as spinning sensation, hives, swollen glands, unusual tiredness, fever, stomach pain, lower back pain, painful urination, blood or pus in the urine, cough with mucus, difficult breathing, and swelling of the face, lips, tongue, or throat. These additional side effects may not be accurate or supported by evidence, which lowers the score."
+    },
+    {
+        "question": "What are the side effects of Accutane?",
+        "golden_response": "Common side effects of Accutane are dryness of your skin, lips, eyes, or nose, vision problems, headache, back pain, joint pain, skin reactions and cold symptoms such as stuffy nose, sneezing, sore throat. Serious side effects include vision problems, depression, severe stomach pain, rectal bleeding, dark urine, yellowing of the skin or eyes and severe headaches.",
+        "generated_response": "The side effects of Accutane may include problems with vision or hearing, muscle or joint pain, bone pain, back pain, increased thirst, increased urination, hallucinations, symptoms of depression, signs of liver or pancreas problems, severe stomach problems, increased pressure inside the skull, dryness of the skin, lips, eyes, or nose, vision problems, headache, skin reactions, and cold symptoms such as stuffy nose, sneezing, sore throat.",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant to the user query and includes most of the side effects mentioned in the reference answer. However, it also includes some additional side effects that are not mentioned in the reference answer, such as increased thirst, increased urination, hallucinations, and signs of liver or pancreas problems. These additional side effects may not be accurate or relevant, which lowers the score."
+    },
+    {
+        "question": "What are the side effects of clindamycin?",
+        "golden_response": "Common side effects of clindamycin are burning, itching, dryness, peeling or redness of treated skin, oily skin. Serious side effects include severe redness, itching, or dryness of treated skin areas; or severe stomach pain, diarrhea that is watery or bloody.",
+        "generated_response": "The side effects of clindamycin may include severe redness, itching, or dryness of treated skin areas, severe stomach pain, watery or bloody diarrhea, burning, itching, dryness, peeling or redness of treated skin, oily skin, nausea, vomiting, stomach pain, mild skin rash, vaginal itching or discharge, abdominal or stomach cramps, pain, and bloating, watery and severe diarrhea (which may also be bloody), fever, increased thirst, unusual tiredness or weakness, weight loss (unusual), skin rash, itching, redness, swelling, or other sign of irritation not present before use of the medicine, dryness, scaliness, or peeling of skin (for the topical solution), abdominal pain, mild diarrhea, headache, irritation or oiliness of skin, stinging or burning feeling of skin.",
+        "score": 3.0,
+        "reasoning": "The generated answer is relevant to the user query and includes most of the side effects mentioned in the reference answer. However, it also includes some additional side effects that are not mentioned in the reference answer, which may be incorrect or misleading. Therefore, the score is reduced to 3.0."
+    },
+    {
+        "question": "What are the side effects of Aldactone?",
+        "golden_response": "Common side effects of Aldactone are breast swelling or tenderness. Serious side effects include loss of coordination, feeling unsteady, little or no urination, nausea, weakness, tingly feeling, chest pain, irregular heartbeats, loss of movement, increased thirst.",
+        "generated_response": "The side effects of Aldactone may include breast swelling or tenderness, drowsiness, dizziness, lack of energy, leg cramps, weakness, feeling like you might pass out, severe pain in your upper stomach spreading to your back, nausea and vomiting, electrolyte imbalance, and low blood cell counts.",
+        "score": 3.0,
+        "reasoning": "The generated answer is relevant and contains some of the common side effects mentioned in the reference answer. However, it also includes additional side effects that are not mentioned in the reference answer, which may be incorrect or misleading."
+    },
+    {
+        "question": "What are the side effects of tretinoin?",
+        "golden_response": "Common side effects of tretinoin topical are skin pain, redness, burning, itching, irritation, sore throats, mild warmth or stinging where the medicine was applied, changes in color of treated skin. Severe side effects include severe burning, stinging, or irritation of treated skin, severe skin dryness or severe redness, swelling, blistering, peeling, or crusting. Your skin may be more sensitive to weather extremes such as cold and wind while using tretinoin topical.",
+        "generated_response": "The side effects of tretinoin may include severe burning, stinging, or irritation of treated skin, severe skin dryness, severe redness, swelling, blistering, peeling, or crusting of the skin, skin pain, redness, burning, itching, or irritation, sore throat, mild warmth or stinging where the medicine was applied, and changes in color of treated skin.",
+        "score": 4.5,
+        "reasoning": "The generated answer is highly relevant to the user query and contains all the side effects mentioned in the reference answer. However, it is slightly longer and less concise than the reference answer, which is why it is not a perfect score of 5."
+    },
+    {
+        "question": "What are the side effects of isotretinoin?",
+        "golden_response": "Common side effects of isotretinoin are dryness of your skin, lips, eyes, or nose, vision problems, headache, back pain, joint pain, muscle problems, skin reactions; or cold symptoms such as stuffy nose, sneezing, sore throat. Serious side effects are problems with your vision or hearing, hallucinations, increased urination, depression, loss of appetite, nausea, fast heart rate, dark urine, yellowing of the skin or eyes, severe stomach pain, pain when swallowing, diarrhea, rectal bleeding and severe headaches.",
+        "generated_response": "The side effects of isotretinoin may include problems with vision or hearing, muscle or joint pain, bone pain, back pain, increased thirst, increased urination, hallucinations, symptoms of depression, signs of liver or pancreas problems, severe stomach problems, increased pressure inside the skull, dryness of the skin, lips, eyes, or nose, vision problems, headache, skin reactions, and cold symptoms such as stuffy nose, sneezing, and sore throat.",
+        "score": 3.5,
+        "reasoning": "The generated answer is relevant and contains most of the side effects mentioned in the reference answer. However, it includes some additional side effects that are not mentioned in the reference answer, such as bone pain, increased thirst, signs of liver or pancreas problems, and increased pressure inside the skull. These additional side effects may not be accurate or may not be commonly associated with isotretinoin. Therefore, the generated answer is not fully correct but still provides relevant information."
+    },
+    {
+        "question": "What are the side effects of Bactrim?",
+        "golden_response": "Common side effects of Bactrim are nausea, vomiting, loss of appetite and skin rash. Serious side effects are severe stomach pain, diarrhea that is watery or bloody, skin rash, yellowing of your skin or eyes, seizures, unusual joint pain, increased or decreased urination; swelling, bruising, or irritation around the IV needle; increased thirst, dry mouth, fruity breath odor; new or worsening cough, fever, trouble breathing, nausea, chest pain, irregular heartbeats, loss of movement, fever, chills, mouth sores, skin sores, easy bruising, unusual bleeding, pale skin, cold hands and feet, feeling light-headed or short of breath.",
+        "generated_response": "The side effects of Bactrim may include nausea, vomiting, loss of appetite, and skin rash.",
+        "score": 4.5,
+        "reasoning": "The generated answer is relevant and contains the same side effects as the reference answer. However, it is slightly less comprehensive as it does not mention the serious side effects of Bactrim."
+    },
+    {
+        "question": "What are the side effects of Retin-A?",
+        "golden_response": "Common side effects of Retin-A are mild warmth or stinging where the medicine was applied, or changes in color of treated skin. Serious side effects are severe burning, stinging, or irritation of treated skin; severe redness, swelling, blistering, peeling, or crusting; Your skin may be more sensitive to weather extremes such as cold and wind while using this medicine.",
+        "generated_response": "The side effects of Retin-A may include severe burning, stinging, or irritation of treated skin, severe redness, swelling, blistering, peeling, or crusting of the skin, mild warmth or stinging where the medicine was applied, and changes in color of treated skin.",
+        "score": 4.5,
+        "reasoning": "The generated answer is highly relevant to the user query and contains all the necessary information. However, it is slightly longer and less concise than the reference answer, which is why it is not a perfect score of 5."
+    }
+]
