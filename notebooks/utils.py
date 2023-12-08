@@ -3,7 +3,7 @@ import random
 from llama_index import VectorStoreIndex, ServiceContext
 from llama_index.llms import Anyscale, OpenAI
 from llama_index.vector_stores import PineconeVectorStore
-from data import get_embedding_model, get_postgres_store, EMBEDDING_DIMENSIONS
+from data import get_embedding_model, EMBEDDING_DIMENSIONS
 import pinecone
     
 def _get_vector_store_index(
