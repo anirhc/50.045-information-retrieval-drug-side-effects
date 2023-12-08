@@ -10,8 +10,8 @@ def _get_vector_store_index(
     service_context,
     embedding_model_name,
 ):
-    
-    api_key = "7fc7d912-5d00-46ae-b73c-0eb78e3d128a"
+    ### PLEASE PASTE YOUR OWN API KEY HERE
+    api_key = ""
     pinecone.init(api_key=api_key, environment="gcp-starter")
     pinecone_index = pinecone.Index("langchain-retrieval-agent")
     vector_store = vector_store = PineconeVectorStore(
